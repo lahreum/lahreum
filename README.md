@@ -23,11 +23,31 @@ Here are some ideas to get you started:
 
 ## ⚡Career
 
-| **Type** | **Date** | **Contents** | **Organization** |
-| :------: | :------: | :------: | :------: |
-| **Education** | 2016.02 ~ 2020.08 | Computer Science Engineering | Korea University of Technology and Education, KOREATECH | 
-| **External activities** | 2020.07 ~  |  Java, Javascript, Spring, Vue.js, DB   | Samsung Software Academy For Youth, SSAFY |
-
+<table border="1">
+  <tr>
+    <th>Type</th>
+    <th>Date</th>
+    <th>Contents</th>
+    <th>Organization</th>
+  </<tr>
+  <tr>
+    <td rowspan="2">Education</td>
+    <td>2016.02 ~ 2020.08</td>
+    <td>Computer Science Engineering</td>
+    <td>Korea University of Technology and Education, KOREATECH</td>
+  </tr>
+  <tr>
+    <td>2019.01 ~ 2019.05</td>
+    <td>Exchange Student Program</td>
+    <td>California State University in Monterey Bay, CSUMB</td>
+  </tr>
+  <tr>
+    <td>External activities</td>
+    <td>2020.07 ~</td>
+    <td>Java, Javascript, Spring, Vue.js, DB</td>
+    <td>Samsung Software Academy For Youth, SSAFY</td>
+  </tr>
+</table>
 
 ## 💬Languages
 ![Vue.js](https://img.shields.io/badge/-Vue.js-orange)
