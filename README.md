@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## ⚡Career
 
-<table border="1">
+<table>
   <tr>
     <th>Type</th>
     <th>Date</th>
