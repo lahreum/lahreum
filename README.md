@@ -31,8 +31,10 @@ Here are some ideas to get you started:
 
 ## 💬Languages
 ![Vue.js](https://img.shields.io/badge/-Vue.js-orange)
-
-
+![Javascript](https://img.shields.io/badge/-Javascript-yellow)
+![Html](https://img.shields.io/badge/-Html-green)
+![Css](https://img.shields.io/badge/-Css-blue)
+![Java](https://img.shields.io/badge/-Java-lightgrey)
 
 
 
