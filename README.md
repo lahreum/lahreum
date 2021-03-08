@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Career
+
+| Type | Date | Contents | Organization |
+| :------: | :------: | :------: | :------: |
+| Education | 2016.02 ~ 2020.08 | Computer Science Engineering | Korea University of Technology and Education, KOREATECH | 
+| External activities | 2020.07 ~  | Samsung Software Academy For Youth, SSAFY |
