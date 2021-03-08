@@ -1,5 +1,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flahreum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋
+## 🌱Introduction 
+Hello, My name is Ahreum Lee. I'm a junior front-end developer.
+I've been studying Computer Science Engineering since 2016. I have some project experience using html, css, javascript, Vue.js.
+I'm interested in interactive UI/UX.
+
 
 <!--
 **lahreum/lahreum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Career
+## ⚡Career
 
-| Type | Date | Contents | Organization |
+| **Type** | **Date** | **Contents** | **Organization** |
 | :------: | :------: | :------: | :------: |
-| Education | 2016.02 ~ 2020.08 | Computer Science Engineering | Korea University of Technology and Education, KOREATECH | 
-| External activities | 2020.07 ~  | Samsung Software Academy For Youth, SSAFY |
+| **Education** | 2016.02 ~ 2020.08 | Computer Science Engineering | Korea University of Technology and Education, KOREATECH | 
+| **External activities** | 2020.07 ~  | Samsung Software Academy For Youth, SSAFY |
