@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-lightgrey)
 
 
-[![AhreumLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhreumLee)](https://github.com/anuraghazra/github-readme-stats)
+[![AhreumLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahreum)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
