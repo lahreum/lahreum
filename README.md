@@ -42,10 +42,15 @@ Here are some ideas to get you started:
     <td>California State University in Monterey Bay, CSUMB</td>
   </tr>
   <tr>
-    <td>External activities</td>
-    <td>2020.07 ~</td>
+    <td rowspan="2">Career</td>
+    <td>2020.07 ~ 2021.07</td>
     <td>Java, Javascript, Spring, Vue.js, DB</td>
     <td>Samsung Software Academy For Youth, SSAFY</td>
+  </tr>
+  <tr>
+    <td>2021.09 ~</td>
+    <td>SCM Solution Team</td>
+    <td>Hankook Networks.</td>
   </tr>
 </table>
 
