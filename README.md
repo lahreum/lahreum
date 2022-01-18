@@ -1,11 +1,5 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flahreum&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 🌱Introduction 
-Hello, My name is Ahreum Lee. I'm a junior front-end developer. 💻
-I've been studying Computer Science Engineering since 2016. I have some project experience using html, css, javascript and Vue.js.
-I'm interested in interactive UI/UX.
-
-
 <!--
 **lahreum/lahreum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,17 +24,6 @@ Here are some ideas to get you started:
     <th>Contents</th>
     <th>Organization</th>
   </<tr>
-  <tr>
-    <td rowspan="2">Education</td>
-    <td>2016.02 ~ 2020.08</td>
-    <td>Computer Science Engineering</td>
-    <td>Korea University of Technology and Education, KOREATECH</td>
-  </tr>
-  <tr>
-    <td>2019.01 ~ 2019.05</td>
-    <td>Exchange Student Program</td>
-    <td>California State University in Monterey Bay, CSUMB</td>
-  </tr>
   <tr>
     <td rowspan="2">Career</td>
     <td>2020.07 ~ 2021.07</td>
