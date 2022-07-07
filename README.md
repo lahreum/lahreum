@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>2021.09 ~</td>
-    <td>SCM Solution Team</td>
+    <td>Logistics Solution Team</td>
     <td>Hankook Networks.</td>
   </tr>
 </table>
