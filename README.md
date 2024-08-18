@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <tr>
     <td rowspan="2">Career</td>
     <td>2020.07 ~ 2021.07</td>
-    <td>Java, Javascript, Spring, Vue.js, DB</td>
+    <td>Java, Javascript, Spring, Jsp, jQuery, Vue.js, Oracle, MSSQL</td>
     <td>Samsung Software Academy For Youth, SSAFY</td>
   </tr>
   <tr>
