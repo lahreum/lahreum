@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <tr>
     <td rowspan="2">Career</td>
     <td>2020.07 ~ 2021.07</td>
-    <td>Java, Javascript, Spring, Jsp, jQuery, Vue.js, Oracle, MSSQL</td>
+    <td>Java, Javascript, Spring, Vue.js, MySQL</td>
     <td>Samsung Software Academy For Youth, SSAFY</td>
   </tr>
   <tr>
@@ -43,7 +43,11 @@ Here are some ideas to get you started:
 ![Html](https://img.shields.io/badge/-Html-green)
 ![Css](https://img.shields.io/badge/-Css-blue)
 ![Java](https://img.shields.io/badge/-Java-lightgrey)
-
+![Jsp](https://img.shields.io/badge/-Jsp-red)
+![jQuery](https://img.shields.io/badge/-jQuery-pink)
+![Spring](https://img.shields.io/badge/-Spring-purple)
+![Oracle](https://img.shields.io/badge/-Oracle-white)
+![Mssql](https://img.shields.io/badge/-Mssql-orange)
 
 [![AhreumLee's GitHub stats](https://github-readme-stats.vercel.app/api?username=lahreum)](https://github.com/anuraghazra/github-readme-stats)
 
